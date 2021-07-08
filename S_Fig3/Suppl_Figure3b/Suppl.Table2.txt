@@ -1,0 +1,56 @@
+Original Sample Name	Sample Name	Specimen	Date	Days_from_diagnosis	Sample Timing	Disease Site	Sample type	WES 	RNAseq 	ddPCR 	SC RNAseq	bulk RNA-TCRseq	Targeted-TCRseq	BC360v2	IO360v1	IHC_CD8_CD4	CD8	CD4	IHC_TP53_Ki67	TP53% (status)	Ki67%	TIL_counts	TIL Num	TIL_ class	TILs absolute Re-count
+8904_12_DNA		FFPE	21-Nov-12	1	On-therapy	Breast	Primary_Tumour			√									√	5%	60				
+DX838_1		Plasma	11-Dec-12	1	On-therapy	Blood	Plasma			√															
+DX838_2		Plasma	07-Feb-13	89	On-therapy	Blood	Plasma			√															
+DX838_3		Plasma	14-Apr-13	145	On-therapy	Blood	Plasma			√															
+DX838_4		Plasma	30-May-13	191	On-therapy	Blood	Plasma			√															
+13_10888B1		FFPE	28-Nov-13	373	On-therapy	Chest wall	Tumour							√	√	√	106	85				50-100	70	C	
+13_10888P0		FFPE	28-Nov-13	373	On-therapy	Chest wall	Tumour			√				√	√				√	0 (mutated)	80	50-100	80	C	
+13_10888A1		FFPE	28-Nov-13	373	On-therapy	Chest wall	Tumour							√	√				√	0 (mutated)	60	10-50	30	B	
+DX838_5		Plasma	12-Dec-13	387	On-therapy	Blood	Plasma			√															
+DX838_6		Plasma	17-Mar-14	482	On-therapy	Blood	Plasma			√															
+14_8580A1		FFPE	17-Sep-14	666	On-therapy	Chest wall	Tumour							√	√							not_tumor			
+DX838_normal		PBMCs	28-Jan-15	799	On-therapy	Blood	Control	√																	
+DNA_patient_302	M1	Frozen_tumor	28-Jan-15	799	On-therapy	Chest wall	Tumour	√	√	√			√												
+15_0785B1	M1	FFPE	28-Jan-15	799	On-therapy	Chest wall	Tumour							√	√				√	0 (mutated)	60	0-10	2	A	2
+15_0785A1	M1	FFPE	28-Jan-15	799	On-therapy	Chest wall	Tumour							√	√	√	28	32				0-10	3	A	3
+15B_5260		FFPE	26-Feb-15	828	On-therapy	Chest wall	Tumour							√	√							0-10	2	A	5
+DX838_7		Plasma	03-Mar-15	833	On-therapy	Blood	Plasma			√															
+15-6952B		FFPE	12-Mar-15	842	On-therapy	Chest wall	Tumour							√	√	√	12	22				10-50	10	B	15
+DX838_8		Plasma	24-Mar-15	854	On-therapy	Blood	Plasma			√															
+DX838, DX838, DX838		Plasma	24-Apr-15	885	On-therapy	Blood	Plasma			√															
+DX838_10		Plasma	15-Jul-15	967	On-therapy	Blood	Plasma			√															
+DX838, DX838, DX838		Plasma	17-Feb-16	1184	On-therapy	Blood	Plasma			√															
+DX838, DX838		Plasma	27-May-16	1283	On-therapy	Blood	Plasma			√															
+17_0504A1		FFPE	17-Jan-17	1519	On-therapy	Chest wall	Tumour			√				√	√	√	NE	NE	√	0 (mutated)	60	0-10	3	A	
+DX838_DNA_plasma		Plasma	24-Jan-17	1526	On-therapy	Blood	Plasma			√															
+17_1414A1		FFPE	08-Feb-17	1541	On-therapy	Chest wall	Tumour							√	√							not_tumor			
+PRE-IMIQ		Frozen_tumor	15-May-17	1637	On-therapy	Chest wall	Tumour							√	√										
+DX838_DNA_plasma		Plasma	18-May-17	1640	On-therapy	Blood	Plasma			√															
+17_6140A1		FFPE	02-Jun-17	1655	On-therapy	Chest wall	Tumour							√	√	√	NE	NE				0-10	2	A	
+DX838_cassete		Frozen_tumor	01-Jul-17	1684	On-therapy	Chest wall	Tumour																		
+POST-IMIQ		Frozen_tumor	04-Jul-17	1687	On-therapy	Chest wall	Tumour							√	√										
+17_7336B1		FFPE	04-Jul-17	1687	On-therapy	Chest wall	Tumour							√	√	√	18	6				0-10	1	A	
+18_1281A1		FFPE	02-Feb-18	1900	On-therapy	Chest wall	Tumour			√				√	√	√	21	1	√	0 (mutated)	80	0-10	1	A	
+DX838_1, DX838_2, DX838_3, DX838_4, DX838_5, DX838_6		Plasma	31-May-18	2018	On-therapy	Blood	Plasma			√															
+302_blood		PBMCs	13-Jun-18	2031	On-therapy	Blood	PBMC				√		√												
+302_005_A	M05A	Frozen_tumor/FFPE	15-Jun-18	2033	Autopsy	Diaphragm	Tumour	√	√			√		√	√							0-10	1	A	
+302_005_B	M05B	Frozen_tumor/FFPE	15-Jun-18	2033	Autopsy	Diaphragm	Tumour	√	√			√		√	√							0-10	1	A	
+302_005_C	M05C	Frozen_tumor/FFPE	15-Jun-18	2033	Autopsy	Diaphragm	Tumour	√	√			√		√	√	√	14	13	√	0 (mutated)	60	0-10	2	A	
+302_006_A	M06A	Frozen_tumor/FFPE	15-Jun-18	2033	Autopsy	Lung	Tumour	√	√			√		√	√	√	11	28	√	0 (mutated)	60	0-10	6	A	
+302_006_B	M06B	Frozen_tumor	15-Jun-18	2033	Autopsy	Lung	Tumour	√	√			√													
+302_007	M07	Frozen_tumor/FFPE	15-Jun-18	2033	Autopsy	Lung	Tumour	√	√			√		√	√	√	6	4				0-10	1	A	
+302_008_A	M08A	Frozen_tumor/FFPE	15-Jun-18	2033	Autopsy	Lung	Tumour	√	√			√		√	√							0-10	1	A	
+302_008_B	M08B	Frozen_tumor/FFPE	15-Jun-18	2033	Autopsy	Lung	Tumour	√	√			√		√	√	√	17	5				0-10	6	A	
+302_009	M09	Frozen_tumor/FFPE	15-Jun-18	2033	Autopsy	Lung	Tumour	√	√			√		√	√	√	8	3				0-10	2	A	
+302_010_C	M10C	Frozen_tumor/FFPE	15-Jun-18	2033	Autopsy	Lung	Tumour	√	√			√		√	√							0-10	2	A	
+302_010_D	M10D	Frozen_tumor/FFPE	15-Jun-18	2033	Autopsy	Lung	Tumour	√	√			√		√	√							0-10	2	A	
+302_010_E	M10E	Frozen_tumor/FFPE	15-Jun-18	2033	Autopsy	Lung	Tumour	√	√			√		√	√	√	26	11				0-10	4	B	
+302_011_A	M11A	Frozen_tumor/FFPE	15-Jun-18	2033	Autopsy	Mediastinal_ ymph nodes	Tumour	√	√			√		√	√	√	25	27	√	0 (mutated)	80	0-10	5	A	
+302_011_B	M11B	Frozen_tumor/FFPE	15-Jun-18	2033	Autopsy	Mediastinal_ ymph nodes	Tumour	√	√			√		√	√							0-10	1	A	
+302_012_A	M12A	Frozen_tumor/FFPE	15-Jun-18	2033	Autopsy	Pericardium	Tumour	√	√			√		√	√	√	16	0	√	0 (mutated)	70	0-10	1	A	
+302_012_B	M12B	Frozen_tumor/FFPE	15-Jun-18	2033	Autopsy	Pericardium	Tumour	√						√	√							0-10	1	A	
+302_015	M15	Frozen_tumor/FFPE	15-Jun-18	2033	Autopsy	Chest wall	Tumour	√	√			√		√	√	√	2	2	√	0 (mutated)	80	0-10	1	A	
+302_016	M16	Frozen_tumor/FFPE	15-Jun-18	2033	Autopsy	Chest wall	Tumour	√	√			√		√	√	√	2	0				0-10	1	A	
+302_017	M17	Frozen_tumor/FFPE	15-Jun-18	2033	Autopsy	Chest wall	Tumour	√						√	√	√	5	2				0-10	1	A	
+302_018	M18	Frozen_tumor/FFPE	15-Jun-18	2033	Autopsy	Chest wall	Tumour	√	√			√		√	√	√	11	4				0-10	2	A	

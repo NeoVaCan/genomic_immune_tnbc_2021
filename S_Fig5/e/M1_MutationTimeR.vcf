@@ -1,0 +1,234 @@
+##fileformat=VCFv4.1									
+##source=JBH
+##phasing=unphased
+##fileDate=160321
+##FORMAT=<ID=AD,Number=2,Type=Integer,Description="Allelic depths (number of reads in each observed allele)">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Total read depth">
+##FORMAT=<ID=FT,Number=1,Type=String,Description="Variant filters">
+##INFO=<ID=t_ref_count,Number=1,Type=Integer,Description="Tumour ref count">
+##INFO=<ID=t_alt_count,Number=1,Type=Integer,Description="Tumour alt count">
+##contig=<ID=1>
+##contig=<ID=2>
+##contig=<ID=3>
+##contig=<ID=4>
+##contig=<ID=5>
+##contig=<ID=6>
+##contig=<ID=7>
+##contig=<ID=8>
+##contig=<ID=9>
+##contig=<ID=10>
+##contig=<ID=11>
+##contig=<ID=12>
+##contig=<ID=13>
+##contig=<ID=14>
+##contig=<ID=15>
+##contig=<ID=16>
+##contig=<ID=17>
+##contig=<ID=18>
+##contig=<ID=19>
+##contig=<ID=20>
+##contig=<ID=21>
+##contig=<ID=22>
+##contig=<ID=X>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	SAMPLE
+1	6011393	KCNAB2_chr1_6011393	C	T	.	PASS	t_alt_count=2;t_ref_count=3	AD:DP	.,2:5
+1	6011398	KCNAB2_chr1_6011398	C	A	.	PASS	t_alt_count=2;t_ref_count=3	AD:DP	.,2:5
+1	12308385	VPS13D_chr1_12308385	TGGGTCCCC	T	.	PASS	t_alt_count=3;t_ref_count=13	AD:DP	.,3:16
+1	26200997	CATSPER4_chr1_26200997	G	A	.	PASS	t_alt_count=22;t_ref_count=45	AD:DP	.,22:67
+1	32662239	RBBP4_chr1_32662239	C	G	.	PASS	t_alt_count=3;t_ref_count=8	AD:DP	.,3:11
+1	33312841	A3GALT2_chr1_33312841	A	G	.	PASS	t_alt_count=7;t_ref_count=21	AD:DP	.,7:28
+1	39411306	MACF1_chr1_39411306	T	G	.	PASS	t_alt_count=13;t_ref_count=40	AD:DP	.,13:53
+1	71078661	ZRANB2_chr1_71078661	C	T	.	PASS	t_alt_count=6;t_ref_count=62	AD:DP	.,6:68
+1	77783338	MIGA1_chr1_77783338	A	G	.	PASS	t_alt_count=4;t_ref_count=12	AD:DP	.,4:16
+1	110892416	CD53_chr1_110892416	TAAC	T	.	PASS	t_alt_count=9;t_ref_count=102	AD:DP	.,9:111
+1	116768556	CD2_chr1_116768556	G	T	.	PASS	t_alt_count=19;t_ref_count=90	AD:DP	.,19:109
+1	152304568	FLG_chr1_152304568	A	G	.	PASS	t_alt_count=4;t_ref_count=13	AD:DP	.,4:17
+1	156009472	SSR2_chr1_156009472	G	C	.	PASS	t_alt_count=4;t_ref_count=15	AD:DP	.,4:19
+1	156475229	MEF2D_chr1_156475229	G	T	.	PASS	t_alt_count=15;t_ref_count=15	AD:DP	.,15:30
+1	159952362	SLAMF9_chr1_159952362	G	T	.	PASS	t_alt_count=19;t_ref_count=116	AD:DP	.,19:135
+1	183944426	COLGALT2_chr1_183944426	C	A	.	PASS	t_alt_count=2;t_ref_count=4	AD:DP	.,2:6
+1	196652151	CFH_chr1_196652151	T	A	.	PASS	t_alt_count=52;t_ref_count=72	AD:DP	.,52:124
+1	201946142	LMOD1_chr1_201946142	C	A	.	PASS	t_alt_count=6;t_ref_count=36	AD:DP	.,6:42
+1	206097775	C1orf186_chr1_206097775	C	G	.	PASS	t_alt_count=18;t_ref_count=82	AD:DP	.,18:100
+1	228103015	C1orf35_chr1_228103015	C	T	.	PASS	t_alt_count=4;t_ref_count=14	AD:DP	.,4:18
+1	236559065	HEATR1_chr1_236559065	G	C	.	PASS	t_alt_count=3;t_ref_count=17	AD:DP	.,3:20
+10	5959828	IL15RA_chr10_5959828	G	C	.	PASS	t_alt_count=11;t_ref_count=15	AD:DP	.,11:26
+10	12177770	NUDT5_chr10_12177770	C	T	.	PASS	t_alt_count=3;t_ref_count=6	AD:DP	.,3:9
+10	43105028	RET_chr10_43105028	G	T	.	PASS	t_alt_count=6;t_ref_count=19	AD:DP	.,6:25
+10	48803383	WDFY4_chr10_48803383	G	T	.	PASS	t_alt_count=22;t_ref_count=22	AD:DP	.,22:44
+10	51299440	PRKG1_chr10_51299440	A	C	.	PASS	t_alt_count=10;t_ref_count=8	AD:DP	.,10:18
+10	71322957	SLC29A3_chr10_71322957	G	A	.	PASS	t_alt_count=15;t_ref_count=40	AD:DP	.,15:55
+10	133465135	SCART1_chr10_133465135	G	A	.	PASS	t_alt_count=3;t_ref_count=12	AD:DP	.,3:15
+11	7549319	PPFIBP2_chr11_7549319	G	A	.	PASS	t_alt_count=4;t_ref_count=9	AD:DP	.,4:13
+11	59755615	STX3_chr11_59755615	C	G	.	PASS	t_alt_count=10;t_ref_count=19	AD:DP	.,10:29
+11	60467219	MS4A1_chr11_60467219	TGTCTTGAAATTTGAAATAAGTCTGTA	T	.	PASS	t_alt_count=5;t_ref_count=7	AD:DP	.,5:12
+11	64598413	SLC22A12_chr11_64598413	CTTGGGCCTGGAGCAGTGGGTACAGGGTAGCAGTCT	C	.	PASS	t_alt_count=4;t_ref_count=21	AD:DP	.,4:25
+11	65635022	PCNX3_chr11_65635022	C	T	.	PASS	t_alt_count=4;t_ref_count=25	AD:DP	.,4:29
+11	72824131	ATG16L2_chr11_72824131	G	A	.	PASS	t_alt_count=5;t_ref_count=38	AD:DP	.,5:43
+11	75587982	MAP6_chr11_75587982	G	C	.	PASS	t_alt_count=6;t_ref_count=30	AD:DP	.,6:36
+11	94963339	CWC15_chr11_94963339	T	A	.	PASS	t_alt_count=2;t_ref_count=3	AD:DP	.,2:5
+11	115169650	CADM1_chr11_115169650	AAGAG	A	.	PASS	t_alt_count=7;t_ref_count=16	AD:DP	.,7:23
+11	118344446	CD3G_chr11_118344446	C	T	.	PASS	t_alt_count=44;t_ref_count=35	AD:DP	.,44:79
+11	124319489	OR8D2_chr11_124319489	C	A	.	PASS	t_alt_count=9;t_ref_count=14	AD:DP	.,9:23
+11	134253630	ACAD8_chr11_134253630	G	C	.	PASS	t_alt_count=12;t_ref_count=20	AD:DP	.,12:32
+12	333783	KDM5A_chr12_333783	C	A	.	PASS	t_alt_count=4;t_ref_count=8	AD:DP	.,4:12
+12	991276	ERC1_chr12_991276	GCGGTGCCTGGGCGGCAGCAGCAGCAGTAGCGGCAGCCCTGAGGACGGTGAGACGGCCGCGGCGGCGGCGA	G	.	PASS	t_alt_count=2;t_ref_count=0	AD:DP	.,2:2
+12	6870908	TPI1_chr12_6870908	C	A	.	PASS	t_alt_count=4;t_ref_count=12	AD:DP	.,4:16
+12	50098819	SMARCD1_chr12_50098819	A	C	.	PASS	t_alt_count=3;t_ref_count=9	AD:DP	.,3:12
+12	57180627	LRP1_chr12_57180627	G	C	.	PASS	t_alt_count=6;t_ref_count=8	AD:DP	.,6:14
+12	66444640	GRIP1_chr12_66444640	AGGAGCTGACTGGCTTCTTC	A	.	PASS	t_alt_count=19;t_ref_count=153	AD:DP	.,19:172
+12	85029706	TSPAN19_chr12_85029706	AATAG	A	.	PASS	t_alt_count=17;t_ref_count=16	AD:DP	.,17:33
+13	19426257	TPTE2_chr13_19426257	C	A	.	PASS	t_alt_count=3;t_ref_count=7	AD:DP	.,3:10
+14	23405026	MYH6_chr14_23405026	C	A	.	PASS	t_alt_count=9;t_ref_count=9	AD:DP	.,9:18
+14	71033919	PCNX1_chr14_71033919	C	T	.	PASS	t_alt_count=3;t_ref_count=6	AD:DP	.,3:9
+14	71033921	PCNX1_chr14_71033921	TCA	T	.	PASS	t_alt_count=3;t_ref_count=10	AD:DP	.,3:13
+14	75049735	MLH3_chr14_75049735	C	T	.	PASS	t_alt_count=11;t_ref_count=29	AD:DP	.,11:40
+14	100884326	RTL1_chr14_100884326	G	A	.	PASS	t_alt_count=3;t_ref_count=3	AD:DP	.,3:6
+15	41708228	MGA_chr15_41708228	T	G	.	PASS	t_alt_count=6;t_ref_count=8	AD:DP	.,6:14
+15	44628583	SPG11_chr15_44628583	TAG	T	.	PASS	t_alt_count=9;t_ref_count=22	AD:DP	.,9:31
+15	54500180	UNC13C_chr15_54500180	G	T	.	PASS	t_alt_count=3;t_ref_count=16	AD:DP	.,3:19
+15	67825554	SKOR1_chr15_67825554	G	T	.	PASS	t_alt_count=3;t_ref_count=1	AD:DP	.,3:4
+15	69440128	KIF23_chr15_69440128	C	T	.	PASS	t_alt_count=8;t_ref_count=8	AD:DP	.,8:16
+15	83263096	BNC1_chr15_83263096	GATT	G	.	PASS	t_alt_count=7;t_ref_count=89	AD:DP	.,7:96
+15	83263100	BNC1_chr15_83263100	T	TGACA	.	PASS	t_alt_count=7;t_ref_count=82	AD:DP	.,7:89
+16	2299565	ABCA3_chr16_2299565	C	T	.	PASS	t_alt_count=12;t_ref_count=42	AD:DP	.,12:54
+16	30009578	DOC2A_chr16_30009578	G	A	.	PASS	t_alt_count=11;t_ref_count=115	AD:DP	.,11:126
+16	31602681	ZNF720P1_chr16_31602681	TTGACTATGGATAC	T	.	PASS	t_alt_count=5;t_ref_count=23	AD:DP	.,5:28
+16	89234068	ZNF778_chr16_89234068	C	A	.	PASS	t_alt_count=4;t_ref_count=7	AD:DP	.,4:11
+17	5033414	SLC52A1_chr17_5033414	G	A	.	PASS	t_alt_count=5;t_ref_count=7	AD:DP	.,5:12
+17	7654727	ATP1B2_chr17_7654727	C	A	.	PASS	t_alt_count=3;t_ref_count=6	AD:DP	.,3:9
+17	7674196	TP53_chr17_7674196	G	GT	.	PASS	t_alt_count=11;t_ref_count=26	AD:DP	.,11:37
+17	7794195	DNAH2_chr17_7794195	G	T	.	PASS	t_alt_count=2;t_ref_count=5	AD:DP	.,2:7
+17	7794197	DNAH2_chr17_7794197	C	CGTGCGTGTGTGTGTCTGTGT	.	PASS	t_alt_count=2;t_ref_count=5	AD:DP	.,2:7
+17	8838710	PIK3R6_chr17_8838710	G	C	.	PASS	t_alt_count=6;t_ref_count=6	AD:DP	.,6:12
+17	10447138	MYH4_chr17_10447138	C	T	.	PASS	t_alt_count=5;t_ref_count=39	AD:DP	.,5:44
+17	42684899	CNTNAP1_chr17_42684899	TG	T	.	PASS	t_alt_count=3;t_ref_count=13	AD:DP	.,3:16
+17	42684903	CNTNAP1_chr17_42684903	C	T	.	PASS	t_alt_count=3;t_ref_count=14	AD:DP	.,3:17
+17	58309087	BZRAP1_chr17_58309087	G	A	.	PASS	t_alt_count=7;t_ref_count=56	AD:DP	.,7:63
+17	59015522	TRIM37_chr17_59015522	T	G	.	PASS	t_alt_count=3;t_ref_count=10	AD:DP	.,3:13
+17	60181643	USP32_chr17_60181643	C	A	.	PASS	t_alt_count=10;t_ref_count=60	AD:DP	.,10:70
+17	74958207	HID1_chr17_74958207	T	G	.	PASS	t_alt_count=14;t_ref_count=38	AD:DP	.,14:52
+17	82090525	FASN_chr17_82090525	GCCT	G	.	PASS	t_alt_count=9;t_ref_count=17	AD:DP	.,9:26
+19	1008819	GRIN3B_chr19_1008819	C	T	.	PASS	t_alt_count=4;t_ref_count=7	AD:DP	.,4:11
+19	14155358	ADGRL1_chr19_14155358	CCTT	C	.	PASS	t_alt_count=2;t_ref_count=3	AD:DP	.,2:5
+19	19865909	ZNF253_chr19_19865909	G	T	.	PASS	t_alt_count=10;t_ref_count=29	AD:DP	.,10:39
+19	38609439	MAP4K1_chr19_38609439	C	T	.	PASS	t_alt_count=2;t_ref_count=4	AD:DP	.,2:6
+19	42907579	PSG6_chr19_42907579	G	T	.	PASS	t_alt_count=3;t_ref_count=18	AD:DP	.,3:21
+19	45494691	PPM1N_chr19_45494691	G	A	.	PASS	t_alt_count=26;t_ref_count=53	AD:DP	.,26:79
+19	46838826	AP2S1_chr19_46838826	G	T	.	PASS	t_alt_count=11;t_ref_count=11	AD:DP	.,11:22
+19	49058172	CGB7_chr19_49058172	C	T	.	PASS	t_alt_count=19;t_ref_count=50	AD:DP	.,19:69
+19	50874863	KLK2_chr19_50874863	T	C	.	PASS	t_alt_count=6;t_ref_count=10	AD:DP	.,6:16
+19	51873500	ZNF577_chr19_51873500	C	T	.	PASS	t_alt_count=11;t_ref_count=35	AD:DP	.,11:46
+19	52766807	ZNF600_chr19_52766807	G	C	.	PASS	t_alt_count=5;t_ref_count=16	AD:DP	.,5:21
+2	20240521	AC007041.2_chr2_20240521	G	A	.	PASS	t_alt_count=16;t_ref_count=33	AD:DP	.,16:49
+2	27035627	TMEM214_chr2_27035627	G	C	.	PASS	t_alt_count=23;t_ref_count=47	AD:DP	.,23:70
+2	27627275	CCDC121_chr2_27627275	C	T	.	PASS	t_alt_count=28;t_ref_count=92	AD:DP	.,28:120
+2	28926576	WDR43_chr2_28926576	AGTTTT	A	.	PASS	t_alt_count=3;t_ref_count=13	AD:DP	.,3:16
+2	28926584	WDR43_chr2_28926584	G	A	.	PASS	t_alt_count=3;t_ref_count=13	AD:DP	.,3:16
+2	31397717	XDH_chr2_31397717	C	T	.	PASS	t_alt_count=13;t_ref_count=74	AD:DP	.,13:87
+2	38070956	CYP1B1_chr2_38070956	G	A	.	PASS	t_alt_count=25;t_ref_count=82	AD:DP	.,25:107
+2	54629022	SPTBN1_chr2_54629022	C	A	.	PASS	t_alt_count=17;t_ref_count=15	AD:DP	.,17:32
+2	61190536	USP34_chr2_61190536	C	A	.	PASS	t_alt_count=8;t_ref_count=61	AD:DP	.,8:69
+2	72998926	SFXN5_chr2_72998926	G	A	.	PASS	t_alt_count=3;t_ref_count=19	AD:DP	.,3:22
+2	79157399	REG3A_chr2_79157399	T	A	.	PASS	t_alt_count=3;t_ref_count=4	AD:DP	.,3:7
+2	88770661	AC096579.14_chr2_88770661	A	T	.	PASS	t_alt_count=3;t_ref_count=3	AD:DP	.,3:6
+2	95891970	ANKRD36C_chr2_95891970	G	A	.	PASS	t_alt_count=9;t_ref_count=33	AD:DP	.,9:42
+2	113007811	IL36A_chr2_113007811	T	C	.	PASS	t_alt_count=4;t_ref_count=10	AD:DP	.,4:14
+2	124563153	CNTNAP5_chr2_124563153	TGC	T	.	PASS	t_alt_count=5;t_ref_count=18	AD:DP	.,5:23
+2	124563158	CNTNAP5_chr2_124563158	TCCCC	T	.	PASS	t_alt_count=5;t_ref_count=18	AD:DP	.,5:23
+2	160137773	ITGB6_chr2_160137773	CCAGCCCCACAGGCTTTATGATAATGTGCCTG	C	.	PASS	t_alt_count=19;t_ref_count=43	AD:DP	.,19:62
+2	202165353	KIAA2012_chr2_202165353	C	T	.	PASS	t_alt_count=16;t_ref_count=29	AD:DP	.,16:45
+20	9421344	PLCB4_chr20_9421344	A	G	.	PASS	t_alt_count=12;t_ref_count=16	AD:DP	.,12:28
+20	17465393	PCSK2_chr20_17465393	G	A	.	PASS	t_alt_count=9;t_ref_count=17	AD:DP	.,9:26
+20	28582098	FRG1CP_chr20_28582098	T	C	.	PASS	t_alt_count=3;t_ref_count=7	AD:DP	.,3:10
+20	29411066	DUX4L34_chr20_29411066	C	T	.	PASS	t_alt_count=4;t_ref_count=14	AD:DP	.,4:18
+20	44424266	HNF4A_chr20_44424266	G	A	.	PASS	t_alt_count=5;t_ref_count=39	AD:DP	.,5:44
+20	46588138	SLC13A3_chr20_46588138	G	C	.	PASS	t_alt_count=12;t_ref_count=39	AD:DP	.,12:51
+21	10419493	AF254983.5_chr21_10419493	G	A	.	PASS	t_alt_count=4;t_ref_count=4	AD:DP	.,4:8
+21	15050915	NRIP1_chr21_15050915	T	C	.	PASS	t_alt_count=21;t_ref_count=36	AD:DP	.,21:57
+21	34859632	RUNX1_chr21_34859632	T	A	.	PASS	t_alt_count=15;t_ref_count=37	AD:DP	.,15:52
+21	42413376	UBASH3A_chr21_42413376	T	G	.	PASS	t_alt_count=4;t_ref_count=4	AD:DP	.,4:8
+21	46289983	YBEY_chr21_46289983	G	A	.	PASS	t_alt_count=5;t_ref_count=8	AD:DP	.,5:13
+22	29580226	NIPSNAP1_chr22_29580226	C	A	.	PASS	t_alt_count=5;t_ref_count=7	AD:DP	.,5:12
+22	36316554	MYH9_chr22_36316554	ATGAAGGAGGCGCCC	A	.	PASS	t_alt_count=13;t_ref_count=43	AD:DP	.,13:56
+22	41866937	SREBF2_chr22_41866937	C	A	.	PASS	t_alt_count=22;t_ref_count=38	AD:DP	.,22:60
+3	12581898	MKRN2_chr3_12581898	G	C	.	PASS	t_alt_count=10;t_ref_count=47	AD:DP	.,10:57
+3	16370104	RFTN1_chr3_16370104	G	A	.	PASS	t_alt_count=8;t_ref_count=41	AD:DP	.,8:49
+3	43303500	SNRK_chr3_43303500	T	C	.	PASS	t_alt_count=6;t_ref_count=25	AD:DP	.,6:31
+3	101522684	FAM172B_chr3_101522684	A	C	.	PASS	t_alt_count=7;t_ref_count=65	AD:DP	.,7:72
+3	120628271	HGD_chr3_120628271	A	T	.	PASS	t_alt_count=5;t_ref_count=3	AD:DP	.,5:8
+3	122341370	CSTA_chr3_122341370	C	G	.	PASS	t_alt_count=20;t_ref_count=25	AD:DP	.,20:45
+3	128625617	RPN1_chr3_128625617	C	T	.	PASS	t_alt_count=21;t_ref_count=114	AD:DP	.,21:135
+3	136026825	PPP2R3A_chr3_136026825	C	T	.	PASS	t_alt_count=2;t_ref_count=11	AD:DP	.,2:13
+3	136026830	PPP2R3A_chr3_136026830	AGA	TTT	.	PASS	t_alt_count=2;t_ref_count=12	AD:DP	.,2:14
+3	193453997	ATP13A4_chr3_193453997	CACCCAGAACCCCT	C	.	PASS	t_alt_count=3;t_ref_count=34	AD:DP	.,3:37
+3	197756580	FYTTD1_chr3_197756580	AATGGAAAGCTGTTATTTGTGTGTTC	A	.	PASS	t_alt_count=13;t_ref_count=19	AD:DP	.,13:32
+3	198038528	LMLN_chr3_198038528	A	T	.	PASS	t_alt_count=10;t_ref_count=17	AD:DP	.,10:27
+4	6861018	KIAA0232_chr4_6861018	C	T	.	PASS	t_alt_count=23;t_ref_count=103	AD:DP	.,23:126
+4	75012417	PARM1_chr4_75012417	TTCCACAGGA	T	.	PASS	t_alt_count=3;t_ref_count=5	AD:DP	.,3:8
+4	78859628	BMP2K_chr4_78859628	C	G	.	PASS	t_alt_count=5;t_ref_count=23	AD:DP	.,5:28
+4	107035471	DKK2_chr4_107035471	A	T	.	PASS	t_alt_count=35;t_ref_count=49	AD:DP	.,35:84
+4	169007814	CBR4_chr4_169007814	A	G	.	PASS	t_alt_count=6;t_ref_count=7	AD:DP	.,6:13
+5	90720147	ADGRV1_chr5_90720147	C	A	.	PASS	t_alt_count=7;t_ref_count=9	AD:DP	.,7:16
+5	140561434	APBB3_chr5_140561434	C	T	.	PASS	t_alt_count=8;t_ref_count=16	AD:DP	.,8:24
+5	149004856	SH3TC2_chr5_149004856	G	C	.	PASS	t_alt_count=63;t_ref_count=57	AD:DP	.,63:120
+5	149183494	ABLIM3_chr5_149183494	A	G	.	PASS	t_alt_count=4;t_ref_count=6	AD:DP	.,4:10
+5	149860852	PDE6A_chr5_149860852	C	A	.	PASS	t_alt_count=6;t_ref_count=5	AD:DP	.,6:11
+5	157499442	ADAM19_chr5_157499442	G	T	.	PASS	t_alt_count=5;t_ref_count=2	AD:DP	.,5:7
+6	1612067	FOXC1_chr6_1612067	G	C	.	PASS	t_alt_count=71;t_ref_count=15	AD:DP	.,71:86
+6	18236543	DEK_chr6_18236543	GGTTTCTTCAACTTTTTAATTAAAGGTTC	G	.	PASS	t_alt_count=12;t_ref_count=27	AD:DP	.,12:39
+6	25086890	CMAHP_chr6_25086890	G	A	.	PASS	t_alt_count=15;t_ref_count=37	AD:DP	.,15:52
+6	36322400	C6orf222_chr6_36322400	C	T	.	PASS	t_alt_count=8;t_ref_count=20	AD:DP	.,8:28
+6	36324192	C6orf222_chr6_36324192	T	A	.	PASS	t_alt_count=17;t_ref_count=48	AD:DP	.,17:65
+6	41770968	FRS3_chr6_41770968	C	A	.	PASS	t_alt_count=65;t_ref_count=27	AD:DP	.,65:92
+6	46701136	TDRD6_chr6_46701136	ATCCCTC	A	.	PASS	t_alt_count=3;t_ref_count=9	AD:DP	.,3:12
+6	46701146	TDRD6_chr6_46701146	C	A	.	PASS	t_alt_count=3;t_ref_count=6	AD:DP	.,3:9
+6	46884171	ADGRF5_chr6_46884171	G	A	.	PASS	t_alt_count=7;t_ref_count=40	AD:DP	.,7:47
+6	57507464	PRIM2_chr6_57507464	G	A	.	PASS	t_alt_count=5;t_ref_count=17	AD:DP	.,5:22
+6	70271605	COL9A1_chr6_70271605	ATCT	A	.	PASS	t_alt_count=19;t_ref_count=35	AD:DP	.,19:54
+6	97229018	MMS22L_chr6_97229018	A	T	.	PASS	t_alt_count=27;t_ref_count=74	AD:DP	.,27:101
+6	125900019	NCOA7_chr6_125900019	G	A	.	PASS	t_alt_count=3;t_ref_count=24	AD:DP	.,3:27
+6	152413551	SYNE1_chr6_152413551	T	C	.	PASS	t_alt_count=11;t_ref_count=24	AD:DP	.,11:35
+6	152505348	SYNE1_chr6_152505348	C	G	.	PASS	t_alt_count=8;t_ref_count=88	AD:DP	.,8:96
+7	905272	ADAP1_chr7_905272	C	T	.	PASS	t_alt_count=2;t_ref_count=1	AD:DP	.,2:3
+7	16682775	BZW2_chr7_16682775	T	G	.	PASS	t_alt_count=4;t_ref_count=11	AD:DP	.,4:15
+7	21801147	DNAH11_chr7_21801147	G	T	.	PASS	t_alt_count=11;t_ref_count=5	AD:DP	.,11:16
+7	27538357	HIBADH_chr7_27538357	T	G	.	PASS	t_alt_count=14;t_ref_count=27	AD:DP	.,14:41
+7	44761790	ZMIZ2_chr7_44761790	C	G	.	PASS	t_alt_count=12;t_ref_count=51	AD:DP	.,12:63
+7	45713874	ADCY1_chr7_45713874	C	T	.	PASS	t_alt_count=16;t_ref_count=34	AD:DP	.,16:50
+7	100953507	MUC3A_chr7_100953507	C	G	.	PASS	t_alt_count=2;t_ref_count=8	AD:DP	.,2:10
+7	100953515	MUC3A_chr7_100953515	CA	TC	.	PASS	t_alt_count=2;t_ref_count=8	AD:DP	.,2:10
+7	100955478	MUC3A_chr7_100955478	C	T	.	PASS	t_alt_count=2;t_ref_count=5	AD:DP	.,2:7
+7	128842735	FLNC_chr7_128842735	CG	C	.	PASS	t_alt_count=10;t_ref_count=9	AD:DP	.,10:19
+7	138679101	SVOPL_chr7_138679101	A	G	.	PASS	t_alt_count=3;t_ref_count=9	AD:DP	.,3:12
+8	25296671	DOCK5_chr8_25296671	T	C	.	PASS	t_alt_count=6;t_ref_count=6	AD:DP	.,6:12
+8	30027990	MAP2K1P1_chr8_30027990	C	G	.	PASS	t_alt_count=5;t_ref_count=7	AD:DP	.,5:12
+8	42957065	HOOK3_chr8_42957065	AG	TT	.	PASS	t_alt_count=2;t_ref_count=12	AD:DP	.,2:14
+8	55273015	XKR4_chr8_55273015	G	T	.	PASS	t_alt_count=4;t_ref_count=17	AD:DP	.,4:21
+8	60801521	CHD7_chr8_60801521	T	G	.	PASS	t_alt_count=18;t_ref_count=46	AD:DP	.,18:64
+8	86647879	CNGB3_chr8_86647879	G	A	.	PASS	t_alt_count=20;t_ref_count=65	AD:DP	.,20:85
+8	99962461	RGS22_chr8_99962461	T	A	.	PASS	t_alt_count=16;t_ref_count=66	AD:DP	.,16:82
+8	109493665	PKHD1L1_chr8_109493665	A	T	.	PASS	t_alt_count=8;t_ref_count=32	AD:DP	.,8:40
+8	143936972	PLEC_chr8_143936972	G	C	.	PASS	t_alt_count=5;t_ref_count=1	AD:DP	.,5:6
+8	144808228	ZNF517_chr8_144808228	A	G	.	PASS	t_alt_count=4;t_ref_count=2	AD:DP	.,4:6
+9	19360495	DENND4C_chr9_19360495	G	A	.	PASS	t_alt_count=7;t_ref_count=33	AD:DP	.,7:40
+9	101428469	ALDOB_chr9_101428469	C	T	.	PASS	t_alt_count=22;t_ref_count=93	AD:DP	.,22:115
+9	113260580	SLC31A1_chr9_113260580	TACAC	T	.	PASS	t_alt_count=3;t_ref_count=3	AD:DP	.,3:6
+9	124807827	OLFML2A_chr9_124807827	T	A	.	PASS	t_alt_count=6;t_ref_count=11	AD:DP	.,6:17
+9	131602088	RAPGEF1_chr9_131602088	C	A	.	PASS	t_alt_count=5;t_ref_count=31	AD:DP	.,5:36
+X	13040816	FAM9C_chrX_13040816	C	A	.	PASS	t_alt_count=7;t_ref_count=20	AD:DP	.,7:27
+X	17719391	NHS_chrX_17719391	C	A	.	PASS	t_alt_count=9;t_ref_count=20	AD:DP	.,9:29
+X	49209780	CACNA1F_chrX_49209780	G	T	.	PASS	t_alt_count=3;t_ref_count=28	AD:DP	.,3:31
+X	53194476	KDM5C_chrX_53194476	G	A	.	PASS	t_alt_count=10;t_ref_count=24	AD:DP	.,10:34
+X	55017683	ALAS2_chrX_55017683	TAATCCTTAAGCTTCTGTCCCAGTACTCCCACTTCAACCTTCAGGTTTGACCTGGCAAAGA	T	.	PASS	t_alt_count=15;t_ref_count=91	AD:DP	.,15:106
+X	55146173	FAM104B_chrX_55146173	G	T	.	PASS	t_alt_count=31;t_ref_count=98	AD:DP	.,31:129
+X	63638234	ARHGEF9_chrX_63638234	G	T	.	PASS	t_alt_count=11;t_ref_count=63	AD:DP	.,11:74
+X	70376169	KIF4A_chrX_70376169	A	G	.	PASS	t_alt_count=11;t_ref_count=45	AD:DP	.,11:56
+X	103499972	RAB40A_chrX_103499972	G	T	.	PASS	t_alt_count=19;t_ref_count=52	AD:DP	.,19:71
+X	109624944	KCNE5_chrX_109624944	GCATTACCCCGGTGGTGCAGCTCGAGCAA	G	.	PASS	t_alt_count=7;t_ref_count=13	AD:DP	.,7:20
+X	119693149	SEPT6_chrX_119693149	G	C	.	PASS	t_alt_count=6;t_ref_count=11	AD:DP	.,6:17
+X	126551279	DCAF12L1_chrX_126551279	A	G	.	PASS	t_alt_count=4;t_ref_count=16	AD:DP	.,4:20
+X	130014356	BCORL1_chrX_130014356	C	A	.	PASS	t_alt_count=16;t_ref_count=35	AD:DP	.,16:51
+X	135985975	SLC9A6_chrX_135985975	C	G	.	PASS	t_alt_count=4;t_ref_count=7	AD:DP	.,4:11
+X	151962459	GABRE_chrX_151962459	C	T	.	PASS	t_alt_count=17;t_ref_count=20	AD:DP	.,17:37
+X	152990726	PNMA5_chrX_152990726	A	G	.	PASS	t_alt_count=9;t_ref_count=10	AD:DP	.,9:19
